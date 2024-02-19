@@ -8,3 +8,6 @@ sample修正
 Another-branchにいます。
 
 Mainにいます。
+
+anotherのみの変更
+
